@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prayag22377" target="blank"><img src="https://img.shields.io/twitter/follow/prayag22377?logo=twitter&style=for-the-badge" alt="prayag22377" /></a> </p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NLP**, **MERN**
 
 - 💬 Ask me about **ML, OOPS**
 
